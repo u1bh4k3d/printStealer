@@ -16,3 +16,7 @@ Put them in a folder.
 Run the terminal in that folder and execute the command `pip install -r requirements.txt` and after that `python scraper.py`.
 
 Now you succesfully ran the script that will save x random screenshots to a screenshots folder.
+
+### Preview:
+
+[![Image from Gyazo](https://i.gyazo.com/404266882b8349f819a211ba0d4939aa.gif)](https://gyazo.com/404266882b8349f819a211ba0d4939aa)
