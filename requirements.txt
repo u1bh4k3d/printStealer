@@ -3,3 +3,4 @@ requests
 bs4
 urllib3
 cloudscraper
+colorama
