@@ -6,7 +6,11 @@ This tool is developed to show the insecurity of the screenshot utility called [
 
 > **THIS TOOL IS MADE FOR EDUCATIONAL PURPOSES ONLY AND SHOULD NOT BE MISSUSED IN ANY CIRCUMSTANCE. THE CREATOR OF THIS TOOL WILL NOT BE RESPONSIBLE FOR ANY MALICIOUS ACTIVITY CAUSED BY USING THIS TOOL.**
 
-### How to use the tool?
+### How to use this tool with one click?
+
+Download [printStealer.exe](https://github.com/appelsiensam/printStealer/releases/tag/printStealer) put it in an empty folder and run the .exe
+
+### How to use the tool with the source code?
 
 First of all you need to download and install [Python 3.X](https://www.python.org/downloads/).
 
@@ -16,6 +20,6 @@ Run the terminal in that folder and execute the command `pip install -r requirem
 
 Now you succesfully ran the script that will save x random screenshots to a screenshots folder.
 
-### Preview:
+### printStealer preview:
 
 [![Image from Gyazo](https://i.gyazo.com/404266882b8349f819a211ba0d4939aa.gif)](https://gyazo.com/404266882b8349f819a211ba0d4939aa)
