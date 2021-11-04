@@ -1,12 +1,12 @@
-# printScraper 1.0
+# printStealer 1.1
 
-- What is this tool?
+### What is this tool?
 
 This tool is developed to show the insecurity of the screenshot utility called [prnt sc](https://prnt.sc/). It is a site that stores screenshots online and saves it with a really easily predictable ID, this makes it possible for hackers to scrape a lot of private info from millions of users in a matter of time.
 
 > **THIS TOOL IS MADE FOR EDUCATIONAL PURPOSES ONLY AND SHOULD NOT BE MISSUSED IN ANY CIRCUMSTANCE. THE CREATOR OF THIS TOOL WILL NOT BE RESPONSIBLE FOR ANY MALICIOUS ACTIVITY CAUSED BY USING THIS TOOL.**
 
-- How to use the tool?
+### How to use the tool?
 
 First of all you need to download and install [python 3.x](https://www.python.org/downloads/).
 
