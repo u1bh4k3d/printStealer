@@ -8,10 +8,9 @@ This tool is developed to show the insecurity of the screenshot utility called [
 
 ### How to use the tool?
 
-First of all you need to download and install [python 3.x](https://www.python.org/downloads/).
+First of all you need to download and install [Python 3.X](https://www.python.org/downloads/).
 
-Download the `scraper.py` and `requirements.txt`.
-Put them in a folder.
+Download the `scraper.py` and `requirements.txt` and put both together in a folder.
 
 Run the terminal in that folder and execute the command `pip install -r requirements.txt` and after that `python scraper.py`.
 
