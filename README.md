@@ -3,6 +3,8 @@
 ### What is this tool?
 This tool is developed to show the insecurity of the screenshot utility called [prnt sc](https://prnt.sc/). It is a site that stores screenshots online and saves it with a really easily predictable ID, this makes it possible for hackers to scrape a lot of private info from millions of users in a matter of time.
 
+This tool shows why you have to be attentive for what you are screenshotting using applications like these.
+
 > **THIS TOOL IS MADE FOR EDUCATIONAL PURPOSES ONLY AND SHOULD NOT BE MISSUSED IN ANY CIRCUMSTANCE. THE CREATOR OF THIS TOOL WILL NOT BE RESPONSIBLE FOR ANY MALICIOUS ACTIVITY CAUSED BY USING THIS TOOL.**
 
 
