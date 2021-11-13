@@ -9,7 +9,8 @@ This tool shows why you have to be attentive for what you are screenshotting usi
 
 
 ### How to use this tool with one click?
-Download [printStealer.exe](https://github.com/appelsiensam/printStealer/releases/tag/printStealer) put it in an empty folder and run the .exe
+- Run the code online by [clicking this](https://replit.com/@appelsiensam/printStealer#scraper.py) and clicking on the "run" button.
+- Or Download [printStealer.exe](https://github.com/appelsiensam/printStealer/releases/tag/printStealer) put it in an empty folder and run the .exe
 
 
 
