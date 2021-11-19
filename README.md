@@ -1,4 +1,4 @@
-# printStealer 1.1
+![](https://64.media.tumblr.com/9f68b9fcaa4e003c62885a38298ae28b/9413c95c88f5b70e-a5/s2048x3072/98bae186dd6a14241cb6c95730acce9c551d3d4f.png)
 
 ### What is this tool?
 This tool is developed to show the insecurity of the screenshot utility called [prnt sc](https://prnt.sc/). It is a site that stores screenshots online and saves it with a really easily predictable ID, this makes it possible for hackers to scrape a lot of private info from millions of users in a matter of time.
