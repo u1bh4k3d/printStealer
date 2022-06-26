@@ -13,7 +13,7 @@ init(convert=True)
 # Creating output folder.
 
 print(Style.BRIGHT)
-print(Fore.CYAN + 'Creators Discord: appelsiensam#3693 \n')
+print(Fore.CYAN + 'Developed by juicyhacker \n')
 
 if not os.path.exists('screenshots'):
     os.mkdir('screenshots')
